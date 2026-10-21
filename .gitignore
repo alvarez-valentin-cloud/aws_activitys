@@ -1,0 +1,7 @@
+accessbucket/
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.aws/
